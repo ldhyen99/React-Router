@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Threads",
+        "quote":"Illustration",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+        "pic":"https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/01-full.jpg"
+    },
+    {
+        "id":2,
+        "title":"Explore",
+        "quote":"Graphic Design",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+        "pic":"https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/02-full.jpg"
+    },
+    {
+        "id":3,
+        "title":"Finish",
+        "quote":"Identity",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+        "pic":"https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/03-full.jpg"
+    },
+    {
+        "id":4,
+        "title":"Lines",
+        "quote":"Branding",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+        "pic":"https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/04-full.jpg"
+    },
+    {
+        "id":5,
+        "title":"Southwest",
+        "quote":"Website Design",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+        "pic":"https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/05-full.jpg"
+    },
+    {
+        "id":6,
+        "title":"Windows",
+        "quote":"Photography",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.",
+        "pic":"https://blackrockdigital.github.io/startbootstrap-agency/img/portfolio/06-full.jpg"
+    }
+]
